@@ -4,7 +4,7 @@
   <ol>
   <li>Library function used</li>
   <li>parameters tweaked, #parameters available</li>
-  <li>Max accuray achieved:
+  <li>Max accuracy achieved:
        <ul>
        <li> parameter values at max accuracy</li>
        </ul>

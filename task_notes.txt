@@ -1,0 +1,4 @@
+TODO:
+1. Amount of data available for analysis or learning i.e. vary amount of data used for learning process and analyse each algorithm.
+2. Compare relatable algorithms and learn the internal features of the data that are causing the differences in the performance metrics.
+3. 
